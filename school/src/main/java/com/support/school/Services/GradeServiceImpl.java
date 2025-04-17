@@ -8,8 +8,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.UUID;
 
-
-public class GradeServiceImpl {
     
 @Service
 public class GradeServiceImpl implements GradeService {
@@ -56,4 +54,4 @@ public class GradeServiceImpl implements GradeService {
 }
 
     
-}
+
